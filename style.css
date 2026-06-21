@@ -71,6 +71,8 @@ p{margin:0}
 .ni.divider{border-bottom:1px solid var(--line)}
 .ni-src{font-family:var(--font-mono);font-weight:700;font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:6px;color:var(--gold-600)}
 .ni-src.t-discussion{color:var(--hn)}.ni-src.t-paper{color:var(--teal-400)}.ni-src.t-repo{color:var(--ink)}.ni-src.t-post{color:var(--gold-600)}
+.lk{display:inline-flex;align-items:center;gap:3px;margin-left:7px;padding:1px 5px;border:1px solid var(--rust-400);border-radius:3px;color:var(--rust-500);font-size:9px}
+.lk svg{vertical-align:-1px}
 .ni a{text-decoration:none;color:inherit}
 .ni-title{font-family:var(--font-display);font-weight:800;line-height:1.15;color:var(--ink);margin:0}
 .ni a:hover .ni-title{text-decoration:underline;text-decoration-color:var(--rust-400);text-underline-offset:2px}
